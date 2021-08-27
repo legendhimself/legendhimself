@@ -65,7 +65,7 @@
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.netcup.eu/vserver/"><img alt="NetCup" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"></a> 
+    <a href="https://www.netcup.eu/vserver/"><img alt="NetCup" src="https://img.shields.io/badge/NetCup-%2307405e.svg?style=flat&logo=aws&logoColor=white"></a> 
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
@@ -140,6 +140,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://discord.gg/C7UycSHs49"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 	<a href="mailto:sabdulrahman971@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/legendhimslef"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/syed-abdul-rahman-a87207201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
