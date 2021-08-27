@@ -136,7 +136,7 @@
 </details>
 <br/>
 
-## 🎮 Github Stats
+## 🎮 Games
 
 <h5 align="center"> Having good attention skills goes a long way in improving a developer's productivity and performance at work. Playing a video game for an hour can help in boosting your brain activity and improving focus. Every developer has to deal with multitasking at some point.</h5>
 <br/>
@@ -144,7 +144,7 @@
     &emsp;
     <a href="#"><img alt="Valorant" src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=eh&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Counter Strike" src="	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"></a>
+    <a href="#"><img alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"></a>
   &emsp;
     <a href="https://steamcommunity.com/profiles/76561199088620618/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     </p>
