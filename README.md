@@ -22,7 +22,7 @@
 <p align="left">
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
    </a> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -69,7 +69,7 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></a>
  </p>
   
   ### 🕸 FrameWorks
@@ -103,8 +103,6 @@
 
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -116,6 +114,8 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
       <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=eh&logoColor=white"></a>
 </p>
 
 <br/>
@@ -135,6 +135,19 @@
   </p>
 </details>
 <br/>
+
+## 🎮 Github Stats
+
+<h5 align="center"> Having good attention skills goes a long way in improving a developer's productivity and performance at work. Playing a video game for an hour can help in boosting your brain activity and improving focus. Every developer has to deal with multitasking at some point.</h5>
+<br/>
+<p>
+    &emsp;
+    <a href="#"><img alt="Valorant" src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=eh&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Counter Strike" src="	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"></a>
+  &emsp;
+    <a href="https://steamcommunity.com/profiles/76561199088620618/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+    </p>
 
 ## 🤝 Let's Connect
 
