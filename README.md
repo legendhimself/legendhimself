@@ -11,7 +11,7 @@
 
 - Self taught, full stack developer
 - Started coding in **2020**
-- Experience with **JavaScript** and **[`TypeScript`]**
+- Experience with **JavaScript** and **`TypeScript`**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
