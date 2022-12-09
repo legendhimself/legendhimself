@@ -15,6 +15,15 @@
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
+## 🔥 Streak Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendhimself&theme=algolia" alt="legendhimself"  /></p>
+
+## 🔥 Github Activities
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=legendhimself&custom_title=Voxelli's%20Contribution%20Graph&theme=react-dark" alt="legendhimself"  /></p>
+
+
 ## 🛠️ My Skills
 
 ### 💻 Programming languages
