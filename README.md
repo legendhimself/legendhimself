@@ -15,14 +15,6 @@
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendhimslef&theme=algolia" alt="legendhimslef"  /></p>
-
-## 🔥 Github Activities
-
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=legendhimslef&custom_title=Voxelli's%20Contribution%20Graph&theme=react-dark" alt="legendhimslef"  /></p>
-
 ## 🛠️ My Skills
 
 ### 💻 Programming languages
@@ -171,4 +163,4 @@
 <hr/>
 
 - Credit: [legendhimslef](https://github.com/legendhimslef)
-- Last Edited on: 27/08/2021
+- Last Edited on: 09/12/2022
