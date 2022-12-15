@@ -135,10 +135,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Voxelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendhimslef&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Voxelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legendhimself&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendhimslef&show_icons=true&locale=en&layout=compact&theme=algolia" alt="legendhimslef" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legendhimself&show_icons=true&locale=en&layout=compact&theme=algolia" alt="legendhimself" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -164,12 +164,12 @@
   <a href="https://discord.gg/C7UycSHs49"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <br/>
 	<a href="mailto:sabdulrahman971@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/legendhimslef"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/legendhimself"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/syed-abdul-rahman-a87207201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/s_a__rahman786/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <hr/>
 
-- Credit: [legendhimslef](https://github.com/legendhimslef)
+- Credit: [legendhimself](https://github.com/legendhimself)
 - Last Edited on: 09/12/2022
